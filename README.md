@@ -1,2 +1,2 @@
-# To get Started with this project type npm install
-set port to 5000
+# It is an Api built using express.js
+Deployment link : https://api-ecom-egy4.onrender.com
